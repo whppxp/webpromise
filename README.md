@@ -6,7 +6,7 @@
 
 ### 实时推送
 
-[完整源码](https://github.com/moreant/tcb-study/blob/e1e2b2abab5d1c193a6364f5fd01dbbcf8b4150e/webviews/asset/admin.js#L76-L98)
+[完整源码](https://github.com/whppxp/webpromise/blob/master/webviews/asset/admin.js#L76-L98)
 
 ```js
 function initlist() {
@@ -40,7 +40,7 @@ function initlist() {
 
 ### Rromise all 加载列表
 
-[完整源码](https://github.com/moreant/tcb-study/blob/e1e2b2abab5d1c193a6364f5fd01dbbcf8b4150e/cloudfunctions/init/index.js#L10-L29)
+[完整源码](https://github.com/whppxp/webpromise/blob/master/cloudfunctions/init/index.js#L10-L29)
 
 ```js
   // 获得数据库总条数

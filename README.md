@@ -72,9 +72,6 @@ async function cloudtohttp(src) {
         return "";
     }
 
-    // let first = src.indexOf('.');
-    // let end = src.indexOf('/', first);
-    // return 'https://' + src.slice(first + 1, end) + '.tcb.qcloud.la/' + src.slice(end + 1, src.length);
 
     /**
      * 改成 getTempFileURL
